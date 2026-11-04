@@ -104,7 +104,7 @@ See the full [Threat Model](spec/THREAT_MODEL.md) covering 21 attack vectors wit
 ### Build from Source
 
 ```bash
-git clone https://github.com/user/cdp.git
+git clone https://github.com/rafagomes/cdp.git
 cd cdp
 cargo build --release
 ```
